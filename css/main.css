@@ -1,0 +1,36 @@
+* { margin: 0; padding: 0; }
+body  
+{
+	background-color: #c0c1b9;
+	font-family: Helvetica, Calibri, Arial;
+}
+#envelope 
+{
+	width: 100%;	
+	background: url('http://images.easyimg.com/1c561499/h-700/w-1/bgc-f1f0eb/gc-c0c1b9/main.png') top left repeat-x;
+}
+#wrapper  
+{
+	margin: auto; width: 960px; height: 700px; text-align:center; color: #4c413f; 
+}
+#mast  
+{
+	height: 150px; line-height: 150px; text-align: left; margin-left: 10px; 
+}
+#mast h1 { font-size: 5em; }
+#mast h2 { font-size: 1.5em; color: #e2bd64; margin: -105px 0 0 10px; text-transform: uppercase; letter-spacing: 9px; text-align: center;}
+#nav { height: 45px;}
+#content
+{
+	margin: auto; width: 80%; text-align: left;
+}
+#content span.imageborder 
+{
+	width: 798px; height: 690px; display:inline-block; padding: 10px;
+	background: url('http://images.easyimg.com/1c561499/bc-4c413f/bw-14/r-10/w-788/h-596/imageborder.png') top left no-repeat;
+}
+#content span.email
+{
+	width: 200px; height: 24px; display:inline-block;
+	background: url('http://images.easyimg.com/1c561499/t-info@horizontalfence.com/c-4c413f/s-16/b/email.png') top left no-repeat;
+}
